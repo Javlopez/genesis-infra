@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: genesis-api
-          image: koorinc/genesis:21dda5d
+          image: koorinc/genesis
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
