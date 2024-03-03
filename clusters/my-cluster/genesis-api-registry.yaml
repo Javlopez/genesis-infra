@@ -5,5 +5,5 @@ metadata:
   name: genesis-api
   namespace: flux-system
 spec:
-  image: koorinc/genesis
+  image:  docker.iokoorinc/genesis
   interval: 5m0s
